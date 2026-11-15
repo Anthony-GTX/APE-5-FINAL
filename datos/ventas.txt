@@ -1,0 +1,4 @@
+Café,2.50
+Sándwich,4.75
+Jugo,3.00
+Pastel,5.25

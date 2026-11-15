@@ -1,0 +1,6 @@
+Ana,85
+Luis,60
+María,92
+Pedro,74
+Carla,abc
+Juan
