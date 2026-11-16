@@ -44,7 +44,7 @@ flowchart LR
 |:-:|:--|:-:|:--|
 | 🕵️ | **Alulema Chato Sandra Jazmin** | 1 y 2 | `sandra-ej01-ej02` |
 | 🧑‍💻 | **Armas Jaya Anthony Daniel** · [@Anthony-GTX](https://github.com/Anthony-GTX) | 3 y 4 | `anthony-ej03-ej04` |
-| 📚 | **Guaman Sagñay Joselyn Maribel** | 5 y 6 | `joselyn-ej05-ej06` |
+| 📚 | **Guaman Sagñay Joselyn Maribel** · [@joselyng07](https://github.com/joselyng07) | 5 y 6 | `joselyn-ej05-ej06` |
 | 🎮 | **Ortiz Mosquera Valeria Valentina** | 7 y 8 | `valeria-ej07-ej08` |
 | ☕ | **Vayas Masache Andrés Gabriel** | 9 y 10 | `andres-ej09-ej10` |
 
